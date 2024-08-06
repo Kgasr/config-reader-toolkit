@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='yaml_config_reader',
+    name='kg_config_reader',
     version='0.0.1',
     description='A toolkit for reading various file formats like YAML and JSON.',
     url='https://github.com/Kgasr/config-reader-toolkit',
